@@ -112,14 +112,4 @@ Resposta:
   <li>Acesse a API no navegador ou pelo Postman: <code>http://localhost:5000</code></li>
 </ol>
 
-<h2>Possíveis Melhorias Futuras</h2>
-<ul>
-  <li>Adicionar autenticação de usuários</li>
-  <li>Salvar os dados em banco de dados (SQLite, MySQL ou MongoDB)</li>
-  <li>Incluir tratamento de erros (ex: dado não encontrado)</li>
-  <li>Documentar os endpoints com Swagger ou outra ferramenta</li>
-</ul>
-
-  <li>Documentar os endpoints com Swagger ou outra ferramenta</li>
-</ul>
 
