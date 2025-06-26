@@ -1,5 +1,8 @@
 <h1>ProjetoAPI</h1>
 
+<p>Desenvolvido por: IZABELA E MARIA LUIZA</p>
+
+
 <p>Essa API foi desenvolvida com o objetivo de treinar a criação de aplicações web que usam rotas e manipulam dados. Ela permite que o usuário visualize, cadastre, edite e apague informações por meio de requisições HTTP.</p>
 
 <h2>O que a API faz</h2>
@@ -37,5 +40,3 @@ DELETE  /api/dados/:id    → Remove o dado com o ID informado
 }
 </pre>
 
-
-<p>Desenvolvido por: IZABELA E MARIA LUIZA</p>
