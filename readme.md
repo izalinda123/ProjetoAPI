@@ -37,7 +37,5 @@ DELETE  /api/dados/:id    → Remove o dado com o ID informado
 }
 </pre>
 
-<h2>Observações finais</h2>
-<p>Esse projeto é básico, feito para fins de aprendizado. Pode ser expandido com autenticação, banco de dados, tratamento de erros e outras melhorias.</p>
 
 <p>Desenvolvido por: IZABELA E MARIA LUIZA</p>
